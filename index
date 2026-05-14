@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Liberty ProSolutions</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  
+    <nav>
+
+        <h1>Liberty ProSolutions</h1>
+
+        <div class="links">
+            <a href="home.html">Home</a>
+            <a href="exuk.html">Ex UK Laptops</a>
+            <a href="contact.html">Contact</a>
+        </div>
+
+    </nav>
+
+  
+    <section class="hero">
+
+        <h2>Professional Repair & Tech Solutions</h2>
+
+        <p>
+            Phone Repair, Laptop Repair,
+            TV Repair, Speaker Repair,
+            Ex UK Laptops & Accessories
+        </p>
+
+    </section>
+
+
+    <section class="services">
+
+        <h2>Services Offered</h2>
+
+        <div class="service-container">
+
+            <div class="card">
+
+              
+                <img src="images/phone.jfif" alt="Phone Repair">
+
+                <h3>Phone Repair</h3>
+
+                <p>
+                    Screen replacement, charging repair,
+                    software flashing and diagnostics.
+                </p>
+
+            </div>
+
+            <div class="card">
+
+               
+                <img src="images/nov.jfif" alt="Laptop Repair">
+
+                <h3>Laptop Repair</h3>
+
+                <p>
+                    Windows installation,
+                    SSD upgrades and motherboard repair.
+                </p>
+
+            </div>
+
+            <div class="card">
+
+               
+                <img src="images/tv.jfif" alt="TV Repair">
+
+                <h3>TV Repair</h3>
+
+                <p>
+                    Smart TV repair,
+                    display diagnostics and power repair.
+                </p>
+
+            </div>
+
+            <div class="card">
+
+              
+                <img src="images/speakers.jfif" alt="Speaker Repair">
+
+                <h3>Speaker Repair</h3>
+
+                <p>
+                    Bluetooth speaker diagnostics,
+                    battery replacement and audio repair.
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+</body>
+<footer class="footer">
+
+    <p>
+        © 2026 Liberty ProSolutions.
+        All Rights Reserved.
+    </p>
+
+    <p>
+        Nairobi, Utawala |
+        +254 140249000
+    </p>
+
+</footer>
+</html>
